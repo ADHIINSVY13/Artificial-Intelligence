@@ -4,10 +4,7 @@
 This repository is my personal journey of **learning Artificial Intelligence (AI) from scratch**.  
 Here, I will be documenting everything I study, practice, and build — from the very basics of algorithms to advanced AI concepts.
 
-The goal is simple:
-- Learn AI step by step
-- Implement concepts with clean, understandable code
-- Create a resource I (and others) can revisit anytime
+This repo is made to create a resource I (and others) can revisit anytime
 
 ---
 
