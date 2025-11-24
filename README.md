@@ -17,14 +17,6 @@ This repo is made to create a resource I (and others) can revisit anytime
   - Supervised & Unsupervised Learning
   - Regression, Classification
   - Clustering
-- **Neural Networks & Deep Learning**
-  - Perceptron, MLP
-  - CNNs, RNNs
-  - Training with PyTorch/TensorFlow
-- **Advanced AI**
-  - Natural Language Processing (NLP)
-  - Reinforcement Learning
-  - Generative AI
 
 ---
 
